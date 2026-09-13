@@ -1,6 +1,11 @@
 # SALES_FORECASTING_USING_SARIMA-MODEL
 
-Retail Sales Forecasting using Python and SARIMA. An end-to-end time-series project that analyzes historical monthly sales, identifies trend and seasonality, evaluates potential high-demand periods, forecasts future sales, and compares actual vs predicted values.
+## Retail Sales Forecasting using Python and SARIMA. An end-to-end time-series project that analyzes historical monthly sales, identifies trend and seasonality, evaluates potential high-demand periods, forecasts future sales, and compares actual vs predicted values.
+
+<img width="1181" height="614" alt="SARIMA FORECAST" src="https://github.com/user-attachments/assets/41865001-97af-4d28-9867-e49061d1cd3e" />
+
+<img width="1181" height="694" alt="MODEL EVALUATION METRICS" src="https://github.com/user-attachments/assets/1b7c3e06-af28-44c9-ae4e-1f67703b8519" />
+
 
 # 📈 Sales Forecasting Using SARIMA
 
